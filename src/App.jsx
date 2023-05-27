@@ -22,7 +22,7 @@ function App() {
           <li>akshay</li>
           <li>pritam</li>
           <li>vishal</li>
-          <li>Nitish Rai + Mayuri Patil</li>
+          <li>Nitish Ray + Mayuri Patil</li>
         </ul>
       </div>
       <div className="card">
