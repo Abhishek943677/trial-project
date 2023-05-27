@@ -14,7 +14,16 @@ function App() {
         </a>
         
       </div>
-      <h1>trial project of vishal kumar </h1>
+      <h1>trial project of vishal kumar from bihar </h1>
+      <div>
+        <ul>
+          <li>abhishek</li>
+          <li>ankit</li>
+          <li>akshay</li>
+          <li>pritam</li>
+          <li>vishal</li>
+        </ul>
+      </div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
